@@ -1,0 +1,2 @@
+# cordovaazurenhbackend
+無法使用mobile service plugin結合azure PushNotification 的替代方案
